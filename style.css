@@ -78,12 +78,12 @@ section p{
     text-shadow: 1p 1px 0px black;
 }
 #img01{
-    background-image: url('/imagens/background001.jpg');
+    background-image: url('../imagens/background001.jpg');
     background-position: right center;
     
 }
 #img02{
-    background-image: url('/imagens/background002.jpg');
+    background-image: url('../imagens/background002.jpg');
 }
 footer {
     background-color: black;
